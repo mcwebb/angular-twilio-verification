@@ -1,0 +1,16 @@
+{
+  "name": "angular-twilio-verification",
+  "description": "An Angular module for verifying phone numbers via Twilio's SMSs",
+  "main": "./angular-twilio-verification.js",
+  "ignore": [],
+  "dependencies": {
+    "angular-twilio": "*"
+  },
+  "author": "Matthew Webb",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
